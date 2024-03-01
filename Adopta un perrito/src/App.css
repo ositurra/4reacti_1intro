@@ -1,7 +1,6 @@
 .cardContainer{
   display: flex;
   flex-direction: row;
-  margin: 20px;
   gap: 20px;
   justify-content: center;
 }
@@ -11,3 +10,25 @@ h1{
   padding: 20px;
 }
 
+.badge {
+  font-size: 25px;
+  margin: 10px;
+}
+
+.card-body{
+  text-align: center;
+}
+
+.badge-container{
+  display: flex;
+  justify-content: center;
+}
+
+.cardContainer img{
+  height: 350px;
+}
+
+h5{
+  text-align: center;
+  padding:20px;
+}
